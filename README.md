@@ -11,7 +11,7 @@ The useful checklist function allows you to keep clear lists such as shopping li
 
 # SOME SCREENSHOTS OF THE NOTE APP:                              
                     
-                 
+                
 
 # FUNCTIONALITY AND CONCEPT USED: 
 
