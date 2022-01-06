@@ -9,8 +9,9 @@ Note Application is an easy-to-use free notes app for Android, optimized for aft
 Notepad features many high-quality features including the options to write, save and edit notes, write checklists, sort notes by title or by date, and save backups of important notes to your phone. A useful note-taking feature allows you to make notes immediately following every phone call made or received so that you don’t forget any important details.
 The useful checklist function allows you to keep clear lists such as shopping lists or task lists but also allows you to cross out items on the list when they are completed, by deleting them.
 
-# SOME SCREENSHOTS OF THE NOTE APP:                              
-                    
+# SOME SCREENSHOTS OF THE NOTE APP:    
+
+<img src="img.png">                    
                 
 
 # FUNCTIONALITY AND CONCEPT USED: 
