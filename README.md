@@ -1,4 +1,4 @@
-# Choose master branch to see the Note-Application's files.
+# Choose master branch to see the files of Note-Application's.
 # Android-Study-Jam
 ## Note Application
 
